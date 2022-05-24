@@ -1,0 +1,5 @@
+workspace {
+  uid = "4fb93fe7-0e73-4f85-8b65-8b382807dbe7"
+  name = "gwr-s-zen-restore"
+  staleStateThresholdMinutes = undefined
+}
